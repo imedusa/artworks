@@ -1,7 +1,7 @@
 # Artwork Portfolio
 
 ### Portfolio website for my artworks using [Hugo Template Theme by Kishan B](https://github.com/kishaningithub/hugo-creative-portfolio-theme)
-
+![toned tan paper](https://i.ibb.co/b2gyVBJ/tonedtan.jpg)
 
 ### Original README from the [theme](https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/README.md)
 
